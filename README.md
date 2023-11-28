@@ -15,5 +15,5 @@ Soit une application de gestion d’un tournoi de football. Les entités de base
 7-Récupérer tous les joueurs de l’équipe ‘ATL MADRID’<br>
 8-Récupérer les deux équipes du math de l’id=3<br>
 9-Récupérer tous les joueurs de poste=’attaquant’ de l’équipe ‘PSG’<br>
-1-Supprimer tous les matchs déjà passés<br>
+10-Supprimer tous les matchs déjà passés<br>
 
